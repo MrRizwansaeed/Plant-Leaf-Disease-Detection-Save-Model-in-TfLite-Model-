@@ -24,7 +24,16 @@ Contributing
 Get 98% accuracy of the model using MobileNet Model and Save model in tflite format for creating Android app
 
 
+# Install dependencies
 
+matplotlib
+keras
+Tensorflow
+Numpy
+Pandas
+CV2
+Sklearn
+os
 
 
 
