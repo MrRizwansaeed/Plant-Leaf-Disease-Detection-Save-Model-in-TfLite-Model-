@@ -5,5 +5,5 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Link of Dataset]([#Link of Dataset](https://www.kaggle.com/datasets/rizwan123456789/potato-disease-leaf-datasetpld)https://www.kaggle.com/datasets/rizwan123456789/potato-disease-leaf-datasetpld)
+- [Link of Dataset]([#](https://www.kaggle.com/datasets/rizwan123456789/potato-disease-leaf-datasetpld)https://www.kaggle.com/datasets/rizwan123456789/potato-disease-leaf-datasetpld)
 - [Contributing](#contributing)
